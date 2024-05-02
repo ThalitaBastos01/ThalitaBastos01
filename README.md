@@ -14,4 +14,6 @@ Como estudante dedicada nesta área em constante evolução, minha jornada tem s
 <img align="center" alt="html" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </div>
 
-![Snake animation](https://github.com/ThalitaBastos01)
+## Projeto 
+
+[API-RESTful-para-Banco-Digital](https://github.com/ThalitaBastos01/API-RESTful-para-Banco-Digital)
