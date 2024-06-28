@@ -17,3 +17,4 @@ Como estudante dedicada nesta área em constante evolução, minha jornada tem s
 ## Projeto 
 
 [API-RESTful-para-Banco-Digital](https://github.com/ThalitaBastos01/API-RESTful-para-Banco-Digital)
+[landingPage](https://github.com/ThalitaBastos01/landing-page-food)
